@@ -9,6 +9,6 @@ It also has additional details like humidity, wind_speed, weather_code, season, 
 
 The purpose is to try predict the future bike shares.
 
-Website link: https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/
+Website link: https://www.kaggle.com/hmavrodiev/london-bike-sharing-dataset
 
 <b> Did feature engineering and generated new columns which were able to seperate the data very well. Using LSTM model to forecast future bike shares. </b>
